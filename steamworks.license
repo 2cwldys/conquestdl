@@ -1,0 +1,24 @@
+*******************************************************
+**     OUR PROJECT IS ALSO DISTRIBUTED VIA STEAM     **
+*******************************************************
+
+Steamworks SDK - Open Source Distribution Policy
+
+The Steamworks SDK is incompatible with some open source licenses, which may affect your ability to distribute open source software via Steam.
+
+According to the Steam Distribution Agreement you warrant and represent that you have all necessary rights to distribute the game via Steam. If your application contains third party open source code that is incompatible with the Steamworks SDK, then YOU MUST NOT DISTRIBUTE YOUR APPLICATION VIA STEAM.
+
+Compatible licenses (generally permissive, no copyleft requirements on modifications):
+- MIT License
+- BSD 3-clause and 4-clause
+- Apache 2.0
+- WTFPL
+
+Problematic licenses (typically copyleft):
+- GPL (and similar strong copyleft licenses)
+
+Exceptions may exist if the original author grants specific permission or interprets the SDK interaction as not triggering copyleft.
+
+Valve does not perform due diligence on your codebase. You are responsible for ensuring compatibility and warranting all necessary rights. Consult a lawyer or the open source code author if in doubt.
+
+Source: https://partner.steamgames.com/doc/sdk/uploading/distributing_opensource
